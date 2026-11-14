@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#f7f5f2" />
+  <rect x="4" y="4" width="120" height="120" rx="17" fill="none" stroke="#e3dfd7" stroke-width="2" />
+  <text x="64" y="88" text-anchor="middle" font-family="Georgia, 'Songti SC', 'SimSun', serif" font-size="76" font-weight="700" fill="#c4482e">李</text>
+</svg>

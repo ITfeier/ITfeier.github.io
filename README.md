@@ -5,5 +5,5 @@
 本仓库只保存构建产物（HTML / CSS / RSS / sitemap），不含源码、部署脚本或任何内网信息。内容与素材的主副本在别处维护，改动后由同步脚本自动提交推送。
 
 - 技术栈：Astro 静态输出，前台无运行时框架依赖
-- 自定义域名：`itfeier.cn`（DNS 指向 GitHub Pages 后由根目录 `CNAME` 生效）
+- 自定义域名：`itfeier.cn`：待 DNS 指向 GitHub Pages 后再添加根目录 `CNAME`；当前为保证 `ITfeier.github.io` 可直接访问，暂不放 CNAME
 - 更新：执行同步脚本，从主副本重新构建并推送，Pages 自动发布
